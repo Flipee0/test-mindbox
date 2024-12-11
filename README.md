@@ -2,6 +2,7 @@
 
 Test task for mindbox❤️
 
+https://flipee0.github.io/test-mindbox/
 ## Run project
 
 ```bash
